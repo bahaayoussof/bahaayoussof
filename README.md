@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bahaayoussof
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Bootstrap and React.
-- 📫 How to reach me Email: bahaayoussof@gmail.com or Linkedin: www.linkedin.com/in/bahaayoussof
+- 📫 How to reach me Linkedin: www.linkedin.com/in/bahaayoussof
 
 <!---
 bahaayoussof/bahaayoussof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

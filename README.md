@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bahaa Youssof</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="center">- 🌱 I’m currently learning <b>React, (React - The Complete Guide)</b></p>
+<p align="center">- 🌱 I’m currently learning <b>React</b></p>
 <p align="center">- 📄 Know about my experiences <a href="https://bit.ly/3CgResume"><b>Resume</b></a></p>
 
 
 <h3 align="center">🤝🏻 &nbsp;Connect with Me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/bahaayoussof" "blank"><img src="https://img.shields.io/badge/-Bahaa Youssof-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/bahaayoussof"><img src="https://img.shields.io/badge/-Bahaa Youssof-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:bahaayoussof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 

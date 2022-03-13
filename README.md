@@ -7,8 +7,13 @@
 
 <h3 align="center">🤝🏻 &nbsp;Connect with Me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/bahaayoussof"><img src="https://img.shields.io/badge/-Bahaa Youssof-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25"/>
-<a href="mailto:bahaayoussof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="25"/>
+  <a href="https://linkedin.com/in/bahaayoussof"><img src="https://img.shields.io/badge/-Bahaa Youssof-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25"/>
+  <a href="mailto:bahaayoussof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="25"/>
+</p>
+  
+<h3 align="center">Visit my Portfolio:</h3>
+<p align="center">
+  <a href="https://bahaa-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=react" height="25"/>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

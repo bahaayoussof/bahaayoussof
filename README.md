@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="center">- 🌱 I’m currently learning <b>React</b></p>
-<p align="center">- 📄 Know about my experiences <a href="https://bit.ly/3CgResume"><b>Resume</b></a></p>
+<p align="center">- 📄 Know about my experiences <a href="http://bit.ly/3itz6CR"><b>Resume</b></a></p>
 
 
 <h3 align="center">🤝🏻 &nbsp;Connect with Me:</h3>

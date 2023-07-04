@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bahaa Youssof</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">Self-motivated and experienced Frontend Developer with a strong passion for building intuitive and visually appealing user interfaces. Demonstrated expertise in JavaScript, React, and Redux, along with proficiency in HTML, CSS. Committed to delivering high-quality code and continuously improving application scalability, maintainability, and user experience. Skilled in API integration, state management, and UI component development.</h3>
 
-<p align="center">- 🌱 I’m currently learning <b>React</b></p>
+<p align="center">- 🌱 I’m currently learning <b>Next</b></p>
 <p align="center">- 📄 Know about my experiences <a href="http://bit.ly/3itz6CR"><b>Resume</b></a></p>
 
 
@@ -30,6 +30,12 @@
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" height="25"/> &nbsp;
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" height="25"/> &nbsp;
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" height="25"/> 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Redux toolkit-05122A?style=flat&logo=redux&logoColor=C76494" alt="Redux toolkit" height="25"/> &nbsp;
+  <img src="https://img.shields.io/badge/-React Router-05122A?style=flat&logo=react" alt="React Router" height="25"/> &nbsp;
+  <img src="https://img.shields.io/badge/-Material UI-05122A?style=flat&logo=mui" alt="Material UI" height="25"/> &nbsp;
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bahaayoussof&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bahaayoussof"/>

@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=1C577B&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="portfolio logo"/>
   </a>
   
-  <a href="http://bit.ly/3itz6CR" target="_blank">
+  <a href="https://docs.google.com/document/d/1sFB48YhA56EVV90pBLlWGts-1O71cSAvuKz-9I2RZsw/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=pdf&label=&color=697689&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="portfolio logo"/>
   </a>
 </div>
